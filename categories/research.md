@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Research Articles"
+category: research
 permalink: /external-blog/categories/research/
 ---
 
