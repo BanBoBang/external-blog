@@ -3,6 +3,7 @@ markdown: kramdown
 
 # 카테고리 페이지 생성을 위한 설정
 permalink: pretty
+baseurl: "/external-blog"
 collections:
   posts:
     output: true
