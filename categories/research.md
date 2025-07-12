@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Research Articles"
+permalink: /external-blog/categories/research/
 ---
 
 {% for post in site.categories.research %}
