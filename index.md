@@ -1,8 +1,11 @@
 ---
 layout: default
-title: My Hacker Page
+title: 팀명 미정
 ---
 
-# 👾 Hello Hacker World
+# Welcome to Our Blog
 
-이 페이지는 GitHub Pages + Hacker 테마로 만들어졌습니다.
+- 📘 [Research](/external-blog/categories/research/)
+- 🌍 [Translation](/external-blog/categories/translation/)
+- 🐞 [Issue Tracking](/external-blog/categories/issue-tracking/)
+- 📰 [Newsletter](/external-blog/categories/news-letter/)
